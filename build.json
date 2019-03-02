@@ -1,0 +1,16 @@
+{
+    "ios": {
+      "debug": {
+        "buildFlag": [
+          "-UseModernBuildSystem=0",
+          "SWIFT_VERSION=4.2"
+        ]
+      },
+      "release": {
+        "buildFlag": [
+          "-UseModernBuildSystem=0",
+          "SWIFT_VERSION=4.2"
+        ]
+      }
+    }
+  }
